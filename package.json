@@ -1,0 +1,20 @@
+{
+  "name": "parking-lot",
+  "version": "1.0.0",
+  "description": "LLD for a smart parking lot system",
+  "homepage": "https://github.com/pshri5/parking-lot#readme",
+  "bugs": {
+    "url": "https://github.com/pshri5/parking-lot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshri5/parking-lot.git"
+  },
+  "license": "MIT",
+  "author": "Preetam Shri",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
