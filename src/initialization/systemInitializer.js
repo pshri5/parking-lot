@@ -35,7 +35,7 @@ function initializeSystem() {
   const parkingController = new ParkingController(parkingService);
   
   // Create a parking lot
-  const parkingLot = new ParkingLot("Downtown Parking", "123 Main St");
+  const parkingLot = new ParkingLot("xyz Parking", "123 Main Street");
   db.parkingLots.push(parkingLot);
   parkingLot.id = db.parkingLotIdCounter++;
   
